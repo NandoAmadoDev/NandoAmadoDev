@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Fernando Amado
 
-### 💻 Software Developer | Web & Mobile
+### 💻 Software Developer | Full Stack | Web & Mobile
 
 Sou desenvolvedor de software com mais de **16 anos de experiência** na criação e manutenção de sistemas corporativos, integrações e soluções web.
 
-Atualmente estou expandindo minha atuação para o desenvolvimento mobile, criando aplicações com **React Native, Expo e TypeScript**.
+Atualmente, estou expandindo minha atuação para o desenvolvimento mobile, construindo aplicações com **React Native, Expo e TypeScript** e aprofundando meus conhecimentos na integração entre aplicativos, APIs e bancos de dados.
 
 > 🚀 **"A experiência que construí até aqui não é o fim da jornada. É a base para o próximo nível."**
 
@@ -24,9 +24,10 @@ Atualmente estou expandindo minha atuação para o desenvolvimento mobile, crian
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Banco de Dados
+### ⚙️ Back-End & Banco de Dados
 
 ![ASP Classic](https://img.shields.io/badge/ASP_Classic-5C2D91?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -40,6 +41,30 @@ Atualmente estou expandindo minha atuação para o desenvolvimento mobile, crian
 ---
 
 ## 🚀 Projetos em destaque
+
+### 💸 DT Money — Controle Financeiro Mobile
+
+Aplicativo de controle financeiro desenvolvido com **React Native, Expo e TypeScript**, integrado a uma **API Back-End com Node.js e TypeScript**, como parte da minha evolução no desenvolvimento mobile e no consumo de APIs.
+
+**Principais funcionalidades:**
+
+- 👤 Cadastro de usuários, autenticação e acesso a áreas privadas
+- 💰 Registro de entradas e saídas financeiras
+- 📝 Edição e exclusão de transações
+- 📊 Resumo financeiro com entradas, saídas e saldo
+- 🔎 Busca e filtros por data, categoria e tipo de movimentação
+- 📅 Seleção de períodos para consulta
+- 🔗 Comunicação entre aplicativo e API
+- 💾 Persistência de informações em banco de dados SQLite
+- 🎨 Interface em tema escuro com componentes reutilizáveis
+
+**Tecnologias:** React Native • Expo • TypeScript • Node.js • TypeORM • SQLite • API REST
+
+**Estrutura:** Front-End e Back-End organizados no mesmo repositório.
+
+👉 **[Ver projeto DT Money no GitHub](https://github.com/NandoAmadoDev/dtmoney)**
+
+---
 
 ### 📋 Projeto Orçamento
 
@@ -65,7 +90,7 @@ Aplicativo mobile desenvolvido em **React Native, Expo e TypeScript** para cria�
 
 Aplicativo mobile desenvolvido em **React Native, Expo, TypeScript e SQLite**, durante minha formação em desenvolvimento mobile pela Rocketseat.
 
-O projeto permite organizar objetivos financeiros, acompanhar o progresso das metas e registrar movimentações, utilizando um banco de dados local.
+O projeto permite organizar objetivos financeiros, acompanhar o progresso das metas e registrar movimentações utilizando um banco de dados local.
 
 **Principais funcionalidades:**
 
@@ -90,13 +115,13 @@ O projeto permite organizar objetivos financeiros, acompanhar o progresso das me
 
 Estou aprofundando meus conhecimentos em:
 
-- React Native
-- TypeScript
-- Expo
+- React Native, Expo e TypeScript
 - Arquitetura de aplicações mobile
-- Navegação com Expo Router
-- Persistência de dados com SQLite
-- Integração com APIs
+- Navegação e gerenciamento de estado
+- Integração com APIs REST e autenticação
+- Desenvolvimento Back-End com Node.js
+- Persistência de dados com SQLite e TypeORM
+- Qualidade de código, ESLint e boas práticas
 
 Busco aplicar os conhecimentos adquiridos na construção de aplicações práticas, consolidando minha experiência em desenvolvimento web e ampliando minhas habilidades no desenvolvimento mobile.
 
